@@ -122,5 +122,6 @@ ipywidgets
 spacy
 beautifulsoup4
 matplotlib
+spacytextblob
 
 
