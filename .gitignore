@@ -14,3 +14,5 @@ __pycache__/
 
 # Jupyter Notebook checkpoint files
 .ipynb_checkpoints
+
+article_dump.pkl
